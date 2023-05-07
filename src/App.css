@@ -12,6 +12,7 @@
 .dark {
     --calc-res-color: #fff;
     --calc-bg: #373737;
+    --txt-color: #fff;
 }
 
 * {
